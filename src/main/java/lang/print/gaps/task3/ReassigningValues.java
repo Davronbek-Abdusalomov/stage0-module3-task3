@@ -20,6 +20,8 @@ public class ReassigningValues {
         System.out.println(first);
         System.out.println(second);
         System.out.println(third);
-
+        System.out.println(linkToFirst);
+        System.out.println(linkToSecond);
+        System.out.println(linkToThird);
     }
 }
